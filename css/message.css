@@ -1,0 +1,13 @@
+.message{
+    display: block;
+    padding: 10px 0px 30px;
+    color: white;
+}
+
+.message p{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 900px;
+}

@@ -1,0 +1,21 @@
+.quotes {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 30px 120px;
+    gap: 50px; 
+}
+
+.images {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 20%;
+}
+
+.quotes p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+    font-style: italic;
+    letter-spacing: 2px;
+}
